@@ -1,0 +1,15 @@
+<img width="1440" alt="Screenshot 2024-03-14 at 10 55 27 PM" src="https://github.com/ManvithChandra0/WeatherApiProject/assets/96135784/a75e2134-5a9c-4a73-bc2a-7672c0f3ccf2">
+<img width="1440" alt="Screenshot 2024-03-14 at 10 55 36 PM" src="https://github.com/ManvithChandra0/WeatherApiProject/assets/96135784/3d71487e-380e-4fc4-aa2b-6327d230a2ea">
+<img width="1440" alt="Screenshot 2024-03-14 at 10 55 45 PM" src="https://github.com/ManvithChandra0/WeatherApiProject/assets/96135784/66ec3ac7-d634-48ce-b66e-12d1c7b3e73c">
+<img width="1440" alt="Screenshot 2024-03-14 at 10 58 45 PM" src="https://github.com/ManvithChandra0/WeatherApiProject/assets/96135784/6ad3a295-4662-4238-a323-99f26ef7f352">
+<img width="1440" alt="Screenshot 2024-03-14 at 10 58 52 PM" src="https://github.com/ManvithChandra0/WeatherApiProject/assets/96135784/de1476ee-30d4-4b5f-8d29-5025b7a79f84">
+<img width="1440" alt="Screenshot 2024-03-14 at 10 59 01 PM" src="https://github.com/ManvithChandra0/WeatherApiProject/assets/96135784/d1ff2a41-8b05-4c00-b359-055f1b36ecf4">
+<img width="1440" alt="Screenshot 2024-03-14 at 10 59 12 PM" src="https://github.com/ManvithChandra0/WeatherApiProject/assets/96135784/d1c46bc7-8ed6-4b6c-9b2d-9820df4e644a">
+<img width="1440" alt="Screenshot 2024-03-14 at 10 59 25 PM" src="https://github.com/ManvithChandra0/WeatherApiProject/assets/96135784/a4f36c4c-a672-47f9-bf48-ca78f9475b33">
+<img width="1440" alt="Screenshot 2024-03-14 at 10 59 35 PM" src="https://github.com/ManvithChandra0/WeatherApiProject/assets/96135784/b563808d-ed58-4b2d-a278-5ac0dbe20fdf">
+<img width="1440" alt="Screenshot 2024-03-14 at 10 59 41 PM" src="https://github.com/ManvithChandra0/WeatherApiProject/assets/96135784/5a6eeee0-ea6c-4260-93b0-8313f9630e4d">
+<img width="1440" alt="Screenshot 2024-03-14 at 10 59 57 PM" src="https://github.com/ManvithChandra0/WeatherApiProject/assets/96135784/f0cbfc7a-ae86-4759-84fb-7b533af1ce50">
+<img width="1440" alt="Screenshot 2024-03-14 at 11 00 02 PM" src="https://github.com/ManvithChandra0/WeatherApiProject/assets/96135784/72711ad2-7a71-43f6-b4c4-fc52db7e165e">
+<img width="1440" alt="Screenshot 2024-03-14 at 11 00 05 PM" src="https://github.com/ManvithChandra0/WeatherApiProject/assets/96135784/7faec90c-2b6f-4411-aa77-ad3772cd34c5">
+<img width="1440" alt="Screenshot 2024-03-14 at 11 00 09 PM" src="https://github.com/ManvithChandra0/WeatherApiProject/assets/96135784/45dabfa0-e65f-43d6-9e14-3e25d686354b">
+<img width="1440" alt="Screenshot 2024-03-14 at 11 00 14 PM" src="https://github.com/ManvithChandra0/WeatherApiProject/assets/96135784/323fee12-6fbb-48d1-a257-8222a49090df">
